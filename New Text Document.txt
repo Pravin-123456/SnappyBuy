@@ -1,0 +1,106 @@
+excel:
+email: teamreact@nubiznez.com
+password: reanub@1212
+
+
+TBS WEB:
+Development Url -> http://192.168.90.43:8081/  
+
+CRM:
+Development Url -> http://192.168.90.43:8082/
+Live Url -> https://crm.thebusstand.com/
+Email: productowner@gmail.com
+password: PRO@tbs-pro1001
+
+PowerBI
+user name : 21683
+password : 21683
+
+react toastify for notifications
+
+Pravinkumar@27258
+
+Orbitron, Exo 2, or Rajdhani futuristic font's
+
+
+login
+searchbus
+top
+
+
+Areas to Improve:
+
+Grammar & Tenses – some past/present tense mismatches.
+
+Prepositions & small words – e.g., listen to songs, lying down, on Netflix.
+
+Sentence Smoothness & Connectors – linking short sentences with and, but, so, because.
+
+Spelling & Capitalization – proper nouns (movie/song names), “I,” favorite, obviously.
+
+
+
+
+TNG_TBS_Mob_Res_Defect_Log_Tracker_Ver_1.1
+
+1 Aug | 7, 11
+
+2 Aug | 23, 25, 43, 92, 102
+
+5 Aug | 14, 18, 94
+
+TNG_TBS_Web_Defect_Log_Tracker_Ver_1.4
+
+2 Aug | 2, 4, 6
+
+4 Aug | 8, 49 (reviewed)
+
+5 Aug | 56, 59, 63, 64
+
+6 Aug | 9, 60, 75, 81, 86, 92
+
+7 Aug | 49, 64 (common module), 36, 47, 65 (home module)
+
+8 Aug | 40 (common module), 71, 82, 83, 84 (home module)
+
+9 Aug | 1 (not specified)
+
+11 Aug | 32, 87
+
+TNG_CRM_Int_Defect_Log_Tracker_Ver_1.2
+
+9 Aug | 2 bugs (not numbered)
+
+11 Aug | studied (no bug fix, just study)
+
+TNG_TBS_Mob_Res_Defect_Log_Tracker_Ver_1.0
+
+1 Sep | 8, 28
+
+TNG_CRM_Web_Int_Defect_Log_Tracker_Ver_1.0
+
+1 Sep | 14
+
+TNG_TBS_Web_Defect_Log_Tracker_Ver_1.3
+
+2 Sep | 64
+
+------------------------------------------------------------
+
+
+TNG_TBS_Mob_Res_Defect_Log_Tracker_Ver_1.1:
+---------------------------------------------
+https://nubiznez1-my.sharepoint.com/:x:/r/personal/sivashne_nubiznez_com/_layouts/15/Doc.aspx?sourcedoc=%7B8BF40816-18EC-49E7-A240-DC974480C050%7D&file=TNG_TBS_Mob_Res_Defect_Log_Tracker_Ver_1.1.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&web=1
+
+------------------------------------------------------------------
+
+TNG_TBS_Web_Defect_Log_Tracker_Ver_1.4
+-------------------------------------
+
+https://nubiznez1-my.sharepoint.com/:x:/g/personal/sivashne_nubiznez_com/EQEd_Dq0-RFAvQYvrQC8vqoBJ_hikj4W-QgvhduDLSa-Hg?e=whdyj1&wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1758610679664&web=1
+
+----------------------------------------------------------------------
+
+
+
+
